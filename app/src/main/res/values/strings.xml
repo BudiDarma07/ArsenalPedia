@@ -1,0 +1,105 @@
+<resources>
+    <string name="app_name">ArsenalPedia</string>
+    <string name="players_name">Martin Odegaard</string>
+    <string name="description">Martin Ødegaard adalah gelandang serang asal Norwegia yang bermain untuk Arsenal di Liga Inggris. Bergabung secara permanen pada tahun 2021 setelah masa pinjaman sukses dari Real Madrid, Ødegaard segera menjadi salah satu pemain kunci di lini tengah Arsenal. Dia dikenal karena visi bermainnya yang tajam, kemampuan mengendalikan tempo permainan, serta kreativitasnya dalam memberikan umpan-umpan terobosan.</string>
+    <string name="about">Tentang</string>
+    <string name="title_about">Tentang Saya</string>
+    <string name="position">CAM/CM</string>
+    <string name="country">Norwegia</string>
+    <string name="teknik_title">Teknik Khusus</string>
+    <string name="teknik_description">Ødegaard memiliki kontrol bola yang luar biasa, mampu menciptakan peluang dari ruang sempit, dan seringkali menjadi pengatur serangan tim. Selain itu, dia juga memiliki tendangan jarak jauh yang akurat dan rajin membantu dalam pressing ketika tim kehilangan bola.</string>
+    <string name="share">Bagikan</string>
+    <string name="email">d3kbudi@gmail.com</string>
+    <string name="nama">Made Budi Darma Putra</string>
+
+    <string-array name="data_name">
+        <item>Martin Odegaard</item>
+        <item>Bukayo Saka</item>
+        <item>William Saliba</item>
+        <item>Gabriel Magalhaes</item>
+        <item>Kai Havertz</item>
+        <item>David Raya</item>
+        <item>Leandro Trossard</item>
+        <item>Gabriel Martinelli</item>
+        <item>Declan Rice</item>
+        <item>Riccardo Calafiori</item>
+        <item>Jurrien Timber</item>
+        <item>Mikel Merino</item>
+
+        <!--  Todo</item>-->
+    </string-array>
+    <string-array name="data_description">
+        <item>Martin Ødegaard adalah gelandang serang asal Norwegia yang bermain untuk Arsenal di Liga Inggris. Bergabung secara permanen pada tahun 2021 setelah masa pinjaman sukses dari Real Madrid, Ødegaard segera menjadi salah satu pemain kunci di lini tengah Arsenal. Dia dikenal karena visi bermainnya yang tajam, kemampuan mengendalikan tempo permainan, serta kreativitasnya dalam memberikan umpan-umpan terobosan.</item>
+        <item>Bukayo Saka adalah pemain sayap serba bisa asal Inggris yang bermain untuk Arsenal. Ia merupakan produk akademi Arsenal dan menjalani debutnya di tim utama pada 2018. Saka dikenal karena kecepatannya, teknik dribbling yang halus, dan kecerdasan taktis di lapangan. Berposisi sebagai winger kanan, Saka sering menjadi ancaman utama bagi lini belakang lawan dengan kemampuannya menusuk dari sisi sayap dan menciptakan peluang. Selain itu, ia juga mahir menggunakan kedua kakinya, meskipun lebih dominan dengan kaki kirinya.</item>
+        <item>William Saliba adalah bek tengah asal Prancis yang bermain untuk Arsenal. Dia bergabung dengan klub pada 2019 dari Saint-Étienne, namun baru benar-benar mulai menunjukkan potensinya di tim utama Arsenal pada musim 2022/2023 setelah menjalani beberapa masa pinjaman di Prancis. Saliba dikenal karena fisiknya yang tangguh, kemampuan membaca permainan, dan ketenangannya dalam menguasai bola, meskipun usianya masih muda. Dia cepat beradaptasi di Liga Inggris dan segera menjadi salah satu pemain inti di lini pertahanan Arsenal.</item>
+        <item>Gabriel Magalhães adalah bek tengah asal Brasil yang bermain untuk Arsenal. Ia bergabung dengan klub pada tahun 2020 dari Lille dan dengan cepat menjadi pilar utama di lini pertahanan tim. Gabriel dikenal karena fisiknya yang kokoh, ketenangannya di bawah tekanan, serta ketangguhannya dalam duel udara dan darat. Sebagai bek kiri dari pasangan bek tengah, Gabriel memiliki peran penting dalam menjaga keseimbangan pertahanan Arsenal dan sering terlibat dalam situasi krusial yang menentukan keberhasilan tim dalam bertahan.</item>
+        <item>Kai Havertz adalah gelandang serang asal Jerman yang bergabung dengan Arsenal pada tahun 2023 setelah sebelumnya bermain untuk Chelsea. Di Chelsea, Havertz dikenal sebagai pemain yang serba bisa, mampu beroperasi di berbagai posisi di lini tengah dan serangan. Dengan tinggi badan yang menjulang, dia memiliki keunggulan fisik dan teknik yang memukau, serta kemampuan untuk berkontribusi baik dalam mencetak gol maupun memberikan assist.</item>
+        <item>David Raya adalah kiper asal Spanyol yang bergabung dengan Arsenal pada tahun 2023 dari Brentford. Sebelum bergabung dengan Arsenal, Raya dikenal sebagai salah satu kiper terbaik di Liga Inggris, dengan penampilan yang konsisten dan kemampuan yang solid dalam mengantisipasi serangan lawan. Dengan postur tubuh yang tinggi dan kemampuan refleks yang baik, Raya memiliki keunggulan dalam menghalau tendangan lawan dan menangkap bola dari situasi set-piece.</item>
+        <item>Leandro Trossard adalah pemain sayap asal Belgia yang bergabung dengan Arsenal pada Januari 2023 setelah bermain untuk Brighton dan Hove Albion. Trossard dikenal sebagai pemain yang sangat serba bisa, mampu beroperasi di berbagai posisi di lini depan, termasuk sebagai winger, penyerang tengah, atau bahkan sebagai gelandang serang. Dengan keterampilan dribbling yang baik dan kecepatan yang mengesankan, dia menjadi ancaman yang signifikan bagi pertahanan lawan.</item>
+        <item>Gabriel Martinelli adalah pemain sayap muda asal Brasil yang bermain untuk Arsenal. Bergabung dengan klub pada tahun 2019 dari klub Brasil, Ituano, Martinelli dengan cepat menunjukkan bakatnya dan menjadi salah satu pemain kunci di lini serang Arsenal. Dia dikenal karena kecepatannya, keterampilan dribbling yang mengesankan, dan kemampuan untuk mencetak gol dari berbagai posisi. Gaya bermainnya yang agresif dan determinasi yang tinggi membuatnya menjadi ancaman serius bagi lini belakang lawan.</item>
+        <item>Declan Rice adalah gelandang bertahan asal Inggris yang bergabung dengan Arsenal pada tahun 2023 dari West Ham United. Sebelumnya, Rice telah menunjukkan performa yang mengesankan di Liga Premier dan menjadi salah satu gelandang bertahan paling dihormati di Inggris. Dengan postur yang tinggi dan fisik yang kuat, Rice dikenal sebagai pemain yang mampu mengendalikan lini tengah, mengintersepsi umpan lawan, dan memutus serangan dengan efektif.</item>
+        <item>Riccardo Calafiori adalah bek kiri asal Italia yang saat ini bermain untuk Arsenal. Calafiori mulai menarik perhatian saat bermain di AS Roma, di mana dia menunjukkan bakat dan kemampuan yang menjanjikan sebagai bek muda. Dikenal karena kecepatan, kemampuan defensif, dan teknik yang baik, Calafiori memiliki potensi untuk berkembang menjadi salah satu bek kiri yang handal di Liga Inggris.</item>
+        <item>Jurrien Timber adalah bek tengah asal Belanda yang bergabung dengan Arsenal pada tahun 2023 dari Ajax Amsterdam. Dikenal karena kemampuan bertahannya yang solid, Timber memiliki karakteristik fisik yang baik dan kemampuan teknis yang memadai. Dia mampu beroperasi baik sebagai bek tengah maupun bek kanan, menjadikannya sebagai pemain yang fleksibel di lini pertahanan. Timber telah menunjukkan bakatnya di Eredivisie, di mana dia menjadi salah satu bek muda yang paling menjanjikan.</item>
+        <item>Mikel Merino adalah gelandang asal Spanyol yang saat ini bermain untuk Arsenal. Sebelumnya, dia dikenal karena performanya yang mengesankan di Real Sociedad, di mana dia memainkan peran kunci di lini tengah dan membantu tim meraih kesuksesan di La Liga. Merino dikenal karena kemampuan teknisnya yang sangat baik, visi permainan yang tajam, dan kemampuannya untuk mengatur tempo permainan, menjadikannya sebagai pengatur serangan yang efektif.</item>
+    </string-array>
+
+    <integer-array name="data_photo">
+        <item>@drawable/odegaard</item>
+        <item>@drawable/starboy</item>
+        <item>@drawable/saliboy</item>
+        <item>@drawable/gabi</item>
+        <item>@drawable/kai</item>
+        <item>@drawable/david</item>
+        <item>@drawable/leo</item>
+        <item>@drawable/martinelli</item>
+        <item>@drawable/rice</item>
+        <item>@drawable/richa</item>
+        <item>@drawable/timber</item>
+        <item>@drawable/merino</item>
+    </integer-array>
+
+    <string-array name="data_position">
+        <item>CAM/CM</item>
+        <item>RW</item>
+        <item>CB</item>
+        <item>CB</item>
+        <item>ST</item>
+        <item>GK</item>
+        <item>LW/CF</item>
+        <item>LW</item>
+        <item>CDM</item>
+        <item>LB/CB</item>
+        <item>RB/CB</item>
+        <item>CM</item>
+    </string-array>
+
+    <string-array name="data_country">
+        <item>Norwegia</item>
+        <item>Inggris</item>
+        <item>Prancis</item>
+        <item>Brazil</item>
+        <item>Jerman</item>
+        <item>Spanyol</item>
+        <item>Belgia</item>
+        <item>Brazil</item>
+        <item>Inggris</item>
+        <item>Italia</item>
+        <item>Belanda</item>
+        <item>Spanyol</item>
+    </string-array>
+
+    <string-array name="data_teknik">
+        <item>Ødegaard memiliki kontrol bola yang luar biasa, mampu menciptakan peluang dari ruang sempit, dan seringkali menjadi pengatur serangan tim. Selain itu, dia juga memiliki tendangan jarak jauh yang akurat dan rajin membantu dalam pressing ketika tim kehilangan bola.</item>
+        <item>Kemampuan khusus Saka yang paling menonjol adalah dribblingnya yang efektif dalam situasi satu lawan satu. Dia mampu melewati lawan dengan kecepatan dan ketenangan, membuatnya sulit dihentikan. Saka juga memiliki visi yang baik dalam memberikan umpan-umpan kunci dan assist untuk rekan setimnya. Di samping itu, dia sering mencetak gol dari posisi sayap, terutama dari tendangan melengkung kaki kiri ke sudut jauh gawang. Meski masih muda, Saka telah menunjukkan kedewasaan di lapangan dan konsistensi performa, menjadikannya salah satu talenta terbaik di Premier League dan pemain penting dalam skuad Arsenal di bawah Mikel Arteta.</item>
+        <item>Kemampuan khusus Saliba yang menonjol adalah kombinasi kekuatan fisik dan kecepatan, yang membuatnya sangat efektif dalam duel satu lawan satu. Selain itu, dia memiliki kemampuan yang baik dalam mengoper bola dari belakang, yang sangat penting dalam skema permainan Arsenal yang sering memulai serangan dari lini pertahanan. Saliba juga unggul dalam situasi bola-bola udara, baik saat bertahan maupun dalam situasi set-piece. Ketangguhan dan ketenangannya membuatnya menjadi bek tengah yang sulit dilewati, serta pemain yang bisa diandalkan dalam mengantisipasi serangan lawan.</item>
+        <item>Kemampuan khusus Gabriel yang menonjol adalah kekuatan fisiknya, yang membuatnya sangat efektif dalam memenangkan duel satu lawan satu melawan striker lawan. Selain itu, dia juga unggul dalam permainan udara, baik dalam situasi defensif maupun ofensif, yang membuatnya sering menjadi ancaman dalam set-piece seperti tendangan sudut. Gabriel juga memiliki kemampuan distribusi bola yang solid, memungkinkannya untuk membantu memulai serangan dari belakang dengan umpan-umpan akurat. Kombinasi kekuatan, kecepatan, dan keterampilan teknisnya menjadikannya salah satu bek yang paling diandalkan di skuad Arsenal.</item>
+        <item>Kemampuan khusus Havertz yang menonjol adalah visi dan kecerdasannya dalam membaca permainan. Ia sering berada di posisi yang tepat untuk menerima bola dan menciptakan peluang bagi rekan-rekannya. Selain itu, dia memiliki teknik dribbling yang baik, serta kemampuan untuk menyelesaikan peluang, baik dengan tendangan keras maupun dengan penyelesaian yang cermat. Havertz juga dikenal memiliki kreativitas yang tinggi, memungkinkan dia untuk menjadi pengatur serangan yang efektif dan memberikan dimensi tambahan pada permainan Arsenal. Dengan usia yang masih muda, Havertz diharapkan dapat terus berkembang dan menjadi salah satu pemain kunci di tim.</item>
+        <item>Kemampuan khusus Raya yang menonjol adalah kemampuan distribusi bolanya. Dia memiliki keterampilan untuk mengoper bola dengan akurat, baik dengan tendangan kaki maupun lemparan, yang sangat penting dalam skema permainan modern yang mengutamakan penguasaan bola dan permainan dari belakang. Selain itu, Raya dikenal memiliki kemampuan membaca permainan yang baik, yang membantunya dalam mengambil keputusan cepat saat menghadapi situasi satu lawan satu. Keterampilan dan kehadiran Raya di bawah mistar gawang memberikan stabilitas tambahan bagi lini pertahanan Arsenal, serta memperkuat permainan menyerang dari belakang.</item>
+        <item>Kemampuan khusus Trossard yang menonjol adalah kemampuannya dalam mencetak gol dan memberikan assist. Dia memiliki insting mencetak gol yang tajam dan seringkali berada di posisi yang tepat untuk memanfaatkan peluang. Selain itu, Trossard juga memiliki tendangan yang kuat dan akurat, serta kemampuan untuk melakukan tembakan dari jarak jauh. Kecerdasannya dalam membaca permainan dan kemampuannya untuk melakukan kombinasi dengan rekan satu tim menjadikannya aset berharga bagi Arsenal. Dengan pengalaman yang diperoleh di Premier League, Trossard diharapkan dapat memberikan kontribusi besar untuk kesuksesan tim di berbagai kompetisi.</item>
+        <item>Kemampuan khusus Martinelli yang paling menonjol adalah kemampuannya dalam mencetak gol dan melakukan pressing tinggi. Dia sering mengambil posisi di tepi lapangan, tetapi juga mampu masuk ke dalam untuk menciptakan peluang atau menyelesaikan serangan. Selain itu, Martinelli memiliki visi permainan yang baik, memungkinkan dia untuk memberikan umpan-umpan berbahaya kepada rekan setimnya. Keterampilan fisiknya, dikombinasikan dengan semangat muda dan sikap kerja keras, menjadikannya salah satu talenta paling menjanjikan di Premier League, dan Arsenal sangat berharap dia akan terus berkembang menjadi bintang di masa depan.</item>
+        <item>Kemampuan khusus Rice yang paling menonjol adalah kemampuannya dalam membaca permainan dan melakukan tackles yang tepat waktu. Dia memiliki visi yang baik dalam mengendalikan tempo permainan, dan sering menjadi penghubung antara lini pertahanan dan serangan. Selain itu, Rice juga memiliki kemampuan untuk memberikan umpan-umpan akurat dari lini tengah, membantu menciptakan peluang bagi rekan setimnya. Keberaniannya untuk maju dalam serangan, ditambah dengan keterampilan defensifnya, menjadikannya aset berharga bagi Arsenal, dan diharapkan dapat memberikan stabilitas serta kreativitas di tengah lapangan.</item>
+        <item>Kemampuan khusus Calafiori yang menonjol adalah kemampuannya untuk menyerang dari posisi bek kiri. Dia memiliki kemampuan dribbling yang baik dan sering melakukan overlapping untuk membantu serangan, menciptakan peluang dari sayap. Selain itu, Calafiori juga memiliki kemampuan untuk memberikan umpan silang yang akurat, yang dapat dimanfaatkan oleh penyerang. Keterampilan bertahannya, dikombinasikan dengan kemampuannya untuk berkontribusi dalam serangan, menjadikannya pemain yang sangat berharga bagi Arsenal dalam menghadapi berbagai tantangan di liga dan kompetisi lainnya.</item>
+        <item>Kemampuan khusus Timber yang menonjol adalah kemampuannya dalam melakukan intersepsi dan tackles yang tepat. Dia dikenal memiliki kemampuan membaca permainan yang baik, yang memungkinkannya untuk mengantisipasi gerakan lawan dan memutus serangan. Selain itu, Timber juga memiliki kemampuan untuk mendistribusikan bola dengan akurat dari lini belakang, membantu tim dalam transisi dari bertahan ke menyerang. Dengan pengalaman yang diperoleh dari bermain di level tinggi di Belanda dan keterampilan yang terus berkembang, Timber diharapkan dapat menjadi pilar di lini pertahanan Arsenal dan berkontribusi besar dalam kesuksesan tim.</item>
+        <item>Kemampuan khusus Merino yang menonjol adalah kemampuannya dalam mendistribusikan bola dan menciptakan peluang. Dia memiliki keterampilan passing yang akurat dan mampu memberikan umpan-umpan berbahaya kepada rekan setimnya. Selain itu, Merino juga memiliki kemampuan bertahan yang solid, memungkinkan dia untuk membantu lini belakang ketika tim kehilangan penguasaan bola. Dengan kemampuannya yang beragam, dia diharapkan dapat memberikan kontribusi signifikan bagi Arsenal dalam menghadapi kompetisi domestik dan Eropa.</item>
+    </string-array>
+</resources>
